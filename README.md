@@ -14,7 +14,7 @@ Overview: This project integrates Unreal Engine 4.27 with AirSim and YOLOv7 to t
 [Building AirSim on Windows](https://microsoft.github.io/AirSim/build_windows/).
 - Create a custom environment in Unreal Engine as described here:
 [Custom Environments in AirSim](https://microsoft.github.io/AirSim/unreal_custenv/).
-Ensure that the `AirSim_uproject` and `AirSim.sln` files are created using Microsoft Visual Studio 2022.
+- Ensure that the `AirSim_uproject` and `AirSim.sln` files are created using Microsoft Visual Studio 2022.
 
 ### IDE Setup:
 Download and install PyCharm or another Python IDE capable of running Python scripts.
