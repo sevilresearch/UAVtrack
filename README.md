@@ -1,4 +1,4 @@
-# Project Title: Autonomous Object Tracking Using Unreal Engine, AirSim, and YOLOv7
+# Project Title: Development of a Tracking Pipeline Using AirSim and YOLOv7
 Overview: This project integrates Unreal Engine 4.27 with AirSim and YOLOv7 to track a moving object autonomously using advanced computer vision techniques. The project's goal is to demonstrate AI's capabilities in identifying and following objects in a simulated environment. The object of interest for this demonstration is a basic blue sedan, defined and trained using Roboflow.
 
 ## Getting Started
