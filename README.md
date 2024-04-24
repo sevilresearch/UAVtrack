@@ -10,10 +10,10 @@ Overview: This project integrates Unreal Engine 4.27 with AirSim and YOLOv7 to t
 
 ## Initial Setup:
 ### AirSim in Unreal Engine:
-Install AirSim by following the guide provided by Microsoft:
-  - [Building AirSim on Windows](https://microsoft.github.io/AirSim/build_windows/).
-Create a custom environment in Unreal Engine as described here:
-- [Custom Environments in AirSim](https://microsoft.github.io/AirSim/unreal_custenv/).
+- Install AirSim by following the guide provided by Microsoft:
+[Building AirSim on Windows](https://microsoft.github.io/AirSim/build_windows/).
+- Create a custom environment in Unreal Engine as described here:
+[Custom Environments in AirSim](https://microsoft.github.io/AirSim/unreal_custenv/).
 Ensure that the `AirSim_uproject` and `AirSim.sln` files are created using Microsoft Visual Studio 2022.
 
 ### IDE Setup:
@@ -26,9 +26,9 @@ Test communication between your Python IDE and Unreal Engine using `AirSimTest1.
 
 ### YOLOv7 Integration
 **Download YOLOv7:**
-Follow the instructions on the YOLOv7 GitHub page to download the necessary files:
+- Follow the instructions on the YOLOv7 GitHub page to download the necessary files:
 [YOLOv7 Official GitHub](https://github.com/WongKinYiu/yolov7).
-Ensure you download the `.weights` and `.cfg` files suitable for YOLOv7.
+- Ensure you download the `.weights` and `.cfg` files suitable for YOLOv7.
 
 ### Roboflow Dataset Creation:
 Capture several images of any object you wish to track; in this case, we use a standard blue sedan model from the Unreal Engine assets.
