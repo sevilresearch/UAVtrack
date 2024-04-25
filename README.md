@@ -7,6 +7,7 @@ Overview: This project integrates Unreal Engine 4.27 with AirSim and YOLOv7 to t
   - Microsoft Visual Studio 2022
   - PyCharm or any Python IDE
   - Git
+  - See `python_packages.txt` to view all the required packages
 
 ## Initial Setup:
 ### AirSim in Unreal Engine:
